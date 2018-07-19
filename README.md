@@ -1,14 +1,31 @@
 # CCCC-367
-Materials for visualising Cambridge, Corpus Christi College, MS 367
+Materials for visualising the codicological structure of Parts II and V of Cambridge, Corpus Christi College, MS 367.
 
-The following are collation diagrams of Parts II and V of Cambridge, Corpus Christi College MS 367, reflecting the original order in which the
-pages of the manuscript were first bound.</p>
+The following are collation diagrams of Parts II and V of Cambridge, Corpus Christi College MS 367, reflecting both the original order in which the
+pages of the manuscript were first bound and the current order in which they are today.</p>
 
-The diagrams were generated using XML by Peter A. Stokes, based on descriptions of the manuscript by Neil Ker, Elaine Treharne and
-Peter Stokes. The visualisations were generated using the Collation Modeller, directed by Dot Porter and Alberto Campagnolo. All
-images of manuscripts are imported directly from Parker on the Web 2.0 using  IIIF and are copyright of the Master and
+The diagrams models are found in the XML files which were created by Peter A. Stokes, based on descriptions of the manuscript by Neil Ker, Elaine Treharne and
+Peter Stokes. 
+
+The visualisations in the Output folders were generated using the Collation Modeller, directed by Dot Porter and Alberto Campagnolo. 
+
+All images of manuscripts in the resulting outputs are imported directly from Parker on the Web 2.0 using  IIIF and are copyright of the Master and
 Fellows of Corpus Christi College, Cambridge, licensed under a Creative Commons Attribution-NonCommercial 4.0 International
 License.
+
+## Using the material
+
+To visualise the results, either download the entire 'Output' files and view them in a browser on your machine, or use the HTML Git Preview by adding [http://htmlpreview.github.com/?] before the URL of the relevant HTML file. Specifically:
+
+* VisColl Visualisations:
+  * [Original Order](http://htmlpreview.github.com/?https://github.com/pastokes/CCCC-367/blob/master/Output%20%28original%20order%29/CCCC367.html)
+  * [Current Order](http://htmlpreview.github.com/?https://github.com/pastokes/CCCC-367/blob/master/Output%20%28current%20order%29/CCCC367.html)
+* Collation Diagrams:
+  * [Original Order](http://htmlpreview.github.com/?https://github.com/pastokes/CCCC-367/blob/master/Output%20%28original%20order%29/CCCC367-diagrams.html)
+  * [Current Order](http://htmlpreview.github.com/?https://github.com/pastokes/CCCC-367/blob/master/Output%20%28current%20order%29/CCCC367-diagrams.html)
+* Collation Formulae:
+  * [Original Order](http://htmlpreview.github.com/?https://github.com/pastokes/CCCC-367/blob/master/Output%20%28original%20order%29/CCCC367-formulas.html)
+  * [Current Order](http://htmlpreview.github.com/?https://github.com/pastokes/CCCC-367/blob/master/Output%20%28current%20order%29/CCCC367-formulas.html)
 
 ## Further reading:
 
