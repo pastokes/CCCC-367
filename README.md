@@ -37,3 +37,4 @@ To regenerate the original VisColl results yourself, download the Image List and
 * Elaine Treharne, 'Cambridge, Corpus Christi College 367', _The Production and Use of English Manuscripts 1060–1220_, edited by Orietta da Rold, Takako Kato, Mary Swan and Elaine Treharne (Leicester, 2010–13). <https://www.le.ac.uk/english/em1060to1220/mss/EM.CCCC.367.htm>
 * Dot Porter, Alberto Campagnolo et al., 'VisColl Collation Modeller'. <https://github.com/leoba/VisColl>
 
+Peter A. Stokes, École Pratique des Hautes Études – Université PSL
