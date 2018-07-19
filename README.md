@@ -19,14 +19,14 @@ License.
 To visualise the results, either download the entire 'Output' files and view them in a browser on your machine, or use the following links:
 
 * VisColl Visualisations:
-  * [Original Order](Output%20%28original%20order%29/CCCC367.html)
-  * [Current Order](Output%20%28current%20order%29/CCCC367.html)
+  * [Original Order](https://pastokes.github.io/CCCC-367/Output%20%28original%20order%29/CCCC367.html)
+  * [Current Order](https://pastokes.github.io/CCCC-367/Output%20%28current%20order%29/CCCC367.html)
 * Collation Diagrams:
-  * [Original Order](Output%20%28original%20order%29/CCCC367-diagrams.html)
-  * [Current Order](Output%20%28current%20order%29/CCCC367-diagrams.html)
+  * [Original Order](https://pastokes.github.io/CCCC-367/Output%20%28original%20order%29/CCCC367-diagrams.html)
+  * [Current Order](https://pastokes.github.io/CCCC-367/Output%20%28current%20order%29/CCCC367-diagrams.html)
 * Collation Formulae:
-  * [Original Order](Output%20%28original%20order%29/CCCC367-formulas.html)
-  * [Current Order](Output%20%28current%20order%29/CCCC367-formulas.html)
+  * [Original Order](https://pastokes.github.io/CCCC-367/Output%20%28original%20order%29/CCCC367-formulas.html)
+  * [Current Order](https://pastokes.github.io/CCCC-367/Output%20%28current%20order%29/CCCC367-formulas.html)
 
 To regenerate the original VisColl results yourself, download the Image List and the relevant collation model XML files and upload them to VisColl following the instructions under [Generating a Collation Visualisation](https://github.com/leoba/VisColl#generate-collation-visualization).
 
