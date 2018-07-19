@@ -13,9 +13,9 @@ All images of manuscripts in the resulting outputs are imported directly from Pa
 Fellows of Corpus Christi College, Cambridge, licensed under a Creative Commons Attribution-NonCommercial 4.0 International
 License.
 
-## Using the material
+## Using the results
 
-To visualise the results, either download the entire 'Output' files and view them in a browser on your machine, or use the HTML Git Preview by adding [http://htmlpreview.github.com/?] before the URL of the relevant HTML file. Specifically:
+To visualise the results, either download the entire 'Output' files and view them in a browser on your machine, or use the HTML Git Preview by adding http://htmlpreview.github.com/? before the URL of the relevant HTML file as follows:
 
 * VisColl Visualisations:
   * [Original Order](http://htmlpreview.github.com/?https://github.com/pastokes/CCCC-367/blob/master/Output%20%28original%20order%29/CCCC367.html)
@@ -26,6 +26,8 @@ To visualise the results, either download the entire 'Output' files and view the
 * Collation Formulae:
   * [Original Order](http://htmlpreview.github.com/?https://github.com/pastokes/CCCC-367/blob/master/Output%20%28original%20order%29/CCCC367-formulas.html)
   * [Current Order](http://htmlpreview.github.com/?https://github.com/pastokes/CCCC-367/blob/master/Output%20%28current%20order%29/CCCC367-formulas.html)
+
+To regenerate the original VisColl results yourself, download the Image List and the relevant collation model XML files and upload them to VisColl following the instructions under [Generating a Collation Visualisation](https://github.com/leoba/VisColl#generate-collation-visualization).
 
 ## Further reading:
 
