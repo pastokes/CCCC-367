@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<manuscript>
+  <url>https://parker.stanford.edu/parker/catalog/hp566jq8781</url>
+  <title>CCCC 367 Parts II &amp; 5</title>
+  <shelfmark>CCCC 367</shelfmark>
+  <quire n="1">
+    <leaf n="1" mode="original" single="false" folio_number="1" conjoin="8" position="1" opposite="8"/>
+    <leaf n="2" mode="original" single="false" folio_number="2" conjoin="7" position="2" opposite="7"/>
+    <leaf n="7" mode="missing" single="false" folio_number="" conjoin="2" position="3" opposite="2"/>
+    <leaf n="8" mode="missing" single="false" folio_number="" conjoin="1" position="4" opposite="1"/>
+  </quire>
+  <quire n="2">
+    <leaf n="4" mode="original" single="false" folio_number="3" conjoin="5" position="1" opposite="5"/>
+    <leaf n="5" mode="original" single="false" folio_number="4" conjoin="4" position="2" opposite="4"/>
+  </quire>
+  <quire n="3">
+    <leaf n="6" mode="original" single="false" folio_number="5" conjoin="3" position="1" opposite="3"/>
+    <leaf n="3" mode="original" single="false" folio_number="6" conjoin="6" position="2" opposite="6"/>
+  </quire>
+  <quire n="4">
+    <leaf n="3" mode="original" single="false" folio_number="7" conjoin="6" position="1" opposite="6"/>
+    <leaf n="4" mode="original" single="false" folio_number="8" conjoin="5" position="2" opposite="5"/>
+    <leaf n="5" mode="original" single="false" folio_number="9" conjoin="4" position="3" opposite="4"/>
+    <leaf n="6" mode="original" single="false" folio_number="10" conjoin="3" position="4" opposite="3"/>
+  </quire>
+  <quire n="5">
+    <leaf n="1" mode="original" single="false" folio_number="11" conjoin="8" position="1" opposite="8"/>
+    <leaf n="2" mode="original" single="false" folio_number="12" conjoin="7" position="2" opposite="7"/>
+    <leaf n="3" mode="original" single="false" folio_number="13" conjoin="6" position="3" opposite="6"/>
+    <leaf n="4" mode="original" single="false" folio_number="14" conjoin="5" position="4" opposite="5"/>
+    <leaf n="5" mode="original" single="false" folio_number="15" conjoin="4" position="5" opposite="4"/>
+    <leaf n="6" mode="original" single="false" folio_number="16" conjoin="3" position="6" opposite="3"/>
+    <leaf n="7" mode="missing" single="false" folio_number="" conjoin="2" position="7" opposite="2"/>
+    <leaf n="8" mode="missing" single="false" folio_number="" conjoin="1" position="8" opposite="1"/>
+  </quire>
+  <quire n="6">
+    <leaf n="4" mode="original" single="false" folio_number="17" conjoin="5" position="1" opposite="5"/>
+    <leaf n="7" mode="original" single="false" folio_number="18" conjoin="2" position="2" opposite="2"/>
+    <leaf n="3" mode="original" single="false" folio_number="19" conjoin="6" position="3" opposite="6"/>
+    <leaf n="40" mode="original" single="false" folio_number="20" conjoin="50" position="4" opposite="5"/>
+    <leaf n="30" mode="original" single="false" folio_number="21" conjoin="60" position="5" opposite="6"/>
+    <leaf n="20" mode="original" single="false" folio_number="22" conjoin="70" position="6" opposite="7"/>
+    <leaf n="10" mode="original" single="false" folio_number="23" conjoin="80" position="7" opposite="8"/>
+    <leaf n="80" mode="original" single="false" folio_number="24" conjoin="10" position="8" opposite="1"/>
+    <leaf n="70" mode="original" single="false" folio_number="25" conjoin="20" position="9" opposite="2"/>
+    <leaf n="60" mode="missing" single="false" folio_number="" conjoin="30" position="10" opposite="3"/>
+    <leaf n="50" mode="original" single="false" folio_number="26" conjoin="40" position="11" opposite="4"/>
+    <leaf n="6" mode="original" single="false" folio_number="27" conjoin="3" position="12" opposite="3"/>
+    <leaf n="2" mode="original" single="false" folio_number="28" conjoin="7" position="13" opposite="7"/>
+    <leaf n="5" mode="original" single="false" folio_number="29" conjoin="4" position="14" opposite="4"/>
+  </quire>
+  <quire n="7">
+    <leaf n="1" mode="missing" single="false" folio_number="" conjoin="8" position="1" opposite="8"/>
+    <leaf n="2" mode="original" single="false" folio_number="45" conjoin="7" position="2" opposite="7"/>
+    <leaf n="3" mode="original" single="false" folio_number="46" conjoin="6" position="3" opposite="6"/>
+    <leaf n="4" mode="original" single="false" folio_number="47" conjoin="5" position="4" opposite="5"/>
+    <leaf n="5" mode="original" single="false" folio_number="48" conjoin="4" position="5" opposite="4"/>
+    <leaf n="6" mode="original" single="false" folio_number="49" conjoin="3" position="6" opposite="3"/>
+    <leaf n="7" mode="missing" single="false" folio_number="" conjoin="2" position="7" opposite="2"/>
+    <leaf n="8" mode="missing" single="false" folio_number="" conjoin="1" position="8" opposite="1"/>
+  </quire>
+  <quire n="8">
+    <leaf n="1" conjoin="4" position="1" opposite="4"/>
+    <leaf n="2" mode="original" single="false" folio_number="50" conjoin="3" position="2" opposite="3"/>
+    <leaf n="3" mode="original" single="false" folio_number="51" conjoin="2" position="3" opposite="2"/>
+    <leaf n="4" mode="added" single="true" folio_number="52" conjoin="1" position="4" opposite="1"/>
+  </quire>
+</manuscript>
