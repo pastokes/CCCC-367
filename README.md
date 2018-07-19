@@ -13,7 +13,7 @@ License.
 
 ## Using the results
 
-To visualise the results, either download the entire 'Output' files and view them in a browser on your machine, or use the following links:
+The results are available from the following links:
 
 * VisColl Visualisations:
   * [Original Order](https://pastokes.github.io/CCCC-367/Output%20%28original%20order%29/CCCC367.html)
@@ -25,7 +25,7 @@ To visualise the results, either download the entire 'Output' files and view the
   * [Original Order](https://pastokes.github.io/CCCC-367/Output%20%28original%20order%29/CCCC367-formulas.html)
   * [Current Order](https://pastokes.github.io/CCCC-367/Output%20%28current%20order%29/CCCC367-formulas.html)
 
-To regenerate the original VisColl results yourself, download the Image List and the relevant collation model XML files and upload them to VisColl following the instructions under [Generating a Collation Visualisation](https://github.com/leoba/VisColl#generate-collation-visualization).
+To regenerate the original VisColl results yourself, download the Image List and the relevant collation model XML files from [the source](https://github.com/pastokes/CCCC-367/) and upload them to VisColl following the instructions under [Generating a Collation Visualisation](https://github.com/leoba/VisColl#generate-collation-visualization).
 
 ## Further reading:
 
