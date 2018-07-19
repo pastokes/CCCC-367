@@ -1,0 +1,440 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Stokes, Peter</Author>
+  <LastAuthor>Stokes, Peter</LastAuthor>
+  <Created>2018-03-20T09:16:54Z</Created>
+  <LastSaved>2018-03-20T11:38:23Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>17100</WindowHeight>
+  <WindowWidth>28240</WindowWidth>
+  <WindowTopX>7020</WindowTopX>
+  <WindowTopY>820</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s16" ss:Name="Lien hypertexte">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#0563C1"
+    ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s65" ss:Parent="s16">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#0066CC"
+    ss:Underline="Single"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Feuil1">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="74" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="65" ss:DefaultRowHeight="16">
+   <Row>
+    <Cell><Data ss:Type="String">1r</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_054_R_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_054_R_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">1v</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_054_V_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_054_V_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2r</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_055_R_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_055_R_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2v</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_055_V_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_055_V_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">3r</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_056_R_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_056_R_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">3v</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_056_V_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_056_V_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">4r</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_057_R_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_057_R_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">4v</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_057_V_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_057_V_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">5r</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_058_R_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_058_R_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">5v</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_058_V_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_058_V_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">6r</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_059_R_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_059_R_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">6v</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_059_V_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_059_V_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">7r</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_060_R_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_060_R_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">7v</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_060_V_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_060_V_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">8r</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_061_R_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_061_R_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">8v</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_054_R_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_061_V_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">9r</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_062_R_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_062_R_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">9v</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_062_V_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_062_V_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">10r</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_063_R_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_063_R_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">10v</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_063_V_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_063_V_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">11r</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_064_R_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_064_R_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">11v</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_064_V_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_064_V_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">12r</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_065_R_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_065_R_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">12v</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_065_V_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_065_V_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">13r</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_066_R_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_066_R_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">13v</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_066_V_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_066_V_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">14r</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_067_R_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_067_R_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">14v</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_067_V_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_067_V_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">15r</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_068_R_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_068_R_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">15v</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_068_V_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_068_V_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">16r</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_069_R_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_069_R_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">16v</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_069_V_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_069_V_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">17r</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_070_R_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_070_R_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">17v</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_070_V_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_070_V_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">18r</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_071_R_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_071_R_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">18v</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_071_V_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_071_V_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">19r</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_072_R_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_072_R_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">19v</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_072_V_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_072_V_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20r</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_073_R_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_073_R_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20v</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_073_V_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_073_V_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">21r</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_074_R_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_074_R_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">21v</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_074_V_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_074_V_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">22r</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_075_R_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_075_R_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">22v</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_075_V_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_075_V_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">23r</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_076_R_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_076_R_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">23v</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_076_V_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_076_V_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">24r</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_077_R_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_077_R_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">24v</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_077_V_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_077_V_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">25r</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_078_R_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_078_R_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">25v</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_078_V_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_078_V_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">26r</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_079_R_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_079_R_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">26v</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_079_V_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_079_V_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">27r</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_080_R_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_080_R_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">27v</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_080_V_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_080_V_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">28r</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_081_R_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_081_R_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">28v</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_081_V_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_081_V_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">29r</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_082_R_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_082_R_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">29v</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_082_V_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_082_V_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">45r</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_098_R_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_098_R_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">45v</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_098_V_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_098_V_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">46r</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_099_R_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_099_R_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">46v</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_099_V_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_099_V_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">47r</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_100_R_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_100_R_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">47v</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_100_V_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_100_V_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">48r</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_101_R_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_101_R_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">48v</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_101_V_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_101_V_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">49r</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_102_R_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_102_R_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">49v</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_102_V_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_102_V_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">50r</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_103_R_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_103_R_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">50v</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_103_V_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_103_V_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">51r</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_104_R_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_104_R_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">51v</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_104_V_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_104_V_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">52r</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_105_R_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_105_R_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">52v</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_105_V_TC_46/full/pct:10/0/default.jpg"><Data
+      ss:Type="String">https://stacks.stanford.edu/image/iiif/hp566jq8781%2F367_105_V_TC_46/full/pct:10/0/default.jpg</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <VerticalResolution>0</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>74</ActiveRow>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
