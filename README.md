@@ -1,4 +1,5 @@
-# CCCC-367
+# Collation Visualisation: Cambridge, Corpus Christi College MS 367
+
 Materials for visualising the codicological structure of Parts II and V of Cambridge, Corpus Christi College, MS 367.
 
 The following are collation diagrams of Parts II and V of Cambridge, Corpus Christi College MS 367, reflecting both the original order in which the
