@@ -19,6 +19,10 @@ The results are available from the following links:
 * Collation Diagrams: [Original Order](https://pastokes.github.io/CCCC-367/Output%20%28original%20order%29/CCCC367-diagrams.html) – [Current Order](https://pastokes.github.io/CCCC-367/Output%20%28current%20order%29/CCCC367-diagrams.html)
 * Collation Formulae: [Original Order](https://pastokes.github.io/CCCC-367/Output%20%28original%20order%29/CCCC367-formulas.html) – [Current Order](https://pastokes.github.io/CCCC-367/Output%20%28current%20order%29/CCCC367-formulas.html)
 
+To make the output a little clearer, two further versions of the collation diagrams were also produced with some manual changes, in particular adding labels to all the folio numbers: 
+
+* Adjusted Collation Diagrams: [Original Order](https://pastokes.github.io/CCCC-367/Output%20%28original%20order%29/CCCC%20367%20Diagrams%20-%20original.html) – [Current Order](https://pastokes.github.io/CCCC-367/Output%20%28current%20order%29/CCCC%20367%20Diagrams%20-%20current.html)
+
 To regenerate the original VisColl results yourself, download the Image List and the relevant collation model XML files from [the source](https://github.com/pastokes/CCCC-367/) and upload them to VisColl following the instructions under [Generating a Collation Visualisation](https://github.com/leoba/VisColl#generate-collation-visualization).
 
 ## Further reading:
