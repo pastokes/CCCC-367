@@ -1,5 +1,7 @@
 # Collation Visualisation: Cambridge, Corpus Christi College MS 367
 
+[![DOI](https://zenodo.org/badge/141545136.svg)](https://zenodo.org/badge/latestdoi/141545136)
+
 Materials for visualising the codicological structure of Parts II and V of Cambridge, Corpus Christi College, MS 367.
 
 The following are collation diagrams of Parts II and V of Cambridge, Corpus Christi College MS 367, reflecting both the original order in which the pages of the manuscript were first bound and the current order in which they are today.
